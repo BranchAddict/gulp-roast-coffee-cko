@@ -166,7 +166,7 @@ body {
     width:fit-content 600px;
     max-width: 50%;
     object-fit: contain;
-    object-position: right;
+    object-position: center;
   }
 }
 
